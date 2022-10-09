@@ -1,4 +1,4 @@
-# DMD_public
+# DMD_Wind_Engr
 %% Introduction 
 % This computeDMD_wake_demo.m algorithm and sample data are based on the
 % computeDMD.m algorithm from Kutz et al. (2016). To give full credit and
